@@ -17,5 +17,49 @@
         "tecnician_id": 132537
       }
     ]
-  }
+  },
+  "partners": [
+    {
+      "partner_name": "Aircare Technologies",
+      "partner_type": "Premium",
+      "data_download": 0,
+      "partner_download": 0,
+      "first_name": "John",
+      "middle_name": "Mr",
+      "last_name": "Rebello",
+      "email": "director1@aircareindia.com",
+      "contact": "9892233007",
+      "address_1": "Champaklal Industrial Estate",
+      "address_2": "Sion East",
+      "locality": "Sion",
+      "country_id": 99,
+      "state_id": 1,
+      "city_id": 14,
+      "zip": "400022",
+      "logo": null,
+      "letterhead": "<p>Aircare Technologies India Pvt Ltd</p>",
+      "status": 0,
+      "user_id": 32038,
+      "reply_to": null,
+      "final_limit": null,
+      "admin_control_sms": 0,
+      "admin_control_email": 0,
+      "admin_control_sunday": 0,
+      "admin_control_whatsapp": 0,
+      "hide_technician_number": 1,
+      "required_signature": 0,
+      "partner_public_number": "9892233007",
+      "active_technicion": 0,
+      "created_at": "2018-02-10T04:35:08.000000Z",
+      "updated_at": "2023-11-23T11:20:31.000000Z",
+      "gst": null,
+      "pan": null,
+      "tan": null,
+      "state": "Maharashtra",
+      "city": "MUMBAI",
+      "total_technicians": 28,
+      "active_technicians": 28,
+      "id": 1
+    }
+  ]
 }
