@@ -1,0 +1,520 @@
+{
+  "technicians": [
+    {
+      "id": "728ed52f",
+      "type": "New",
+      "TechnicianID": "128561",
+      "Name": "",
+      "Contact": "9011265239",
+      "City": "Maharashtra",
+      "Partner": "Pureblu Temporary",
+      "CreatedOn": "2021-10-16 20:51:48",
+      "Status": "Active",
+      "Action": ""
+    }
+  ],
+  "assignpartner": [
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    },
+    {
+      "button": "",
+      "id": "728ed52f",
+      "Name": "Pureblu Temporary",
+      "Contact": "9011265239"
+    }
+  ],
+  "partner-complains": {
+    "Cancelled": [
+      {
+        "complain_Status_id": 11,
+        "ComplainID": 463685,
+        "UserID": 132549,
+        "request_type": "Repairs - Device Mapping",
+        "CustomerName": "Ferrari of Mumbai Showroom",
+        "TechnicianName": "poonam",
+        "TechnicianNumber": "9033734489",
+        "assign_date": "28 November, 2023",
+        "assign_day": "Tuesday",
+        "comp_assign_time": "17:34",
+        "complain_time": "05:34 PM",
+        "partner_type": "Premium",
+        "tecnician_id": 132536
+      }
+    ],
+    "Escalated": [
+      {
+        "complain_Status_id": 12,
+        "ComplainID": 463686,
+        "UserID": 132550,
+        "request_type": "Urgent Repairs - Device Mapping",
+        "CustomerName": "Another Customer",
+        "TechnicianName": "john",
+        "TechnicianNumber": "1234567890",
+        "assign_date": "29 November, 2023",
+        "assign_day": "Wednesday",
+        "comp_assign_time": "10:00",
+        "complain_time": "10:00 AM",
+        "partner_type": "Standard",
+        "tecnician_id": 132537
+      }
+    ],
+    "Ongoing": [
+      {
+        "complain_Status_id": 12,
+        "ComplainID": 463686,
+        "UserID": 132550,
+        "request_type": "Urgent Repairs - Device Mapping",
+        "CustomerName": "Another Customer",
+        "TechnicianName": "john",
+        "TechnicianNumber": "1234567890",
+        "assign_date": "29 November, 2023",
+        "assign_day": "Wednesday",
+        "comp_assign_time": "10:00",
+        "complain_time": "10:00 AM",
+        "partner_type": "Standard",
+        "tecnician_id": 132537
+      }
+    ],
+    "Past": [
+      {
+        "complain_Status_id": 12,
+        "ComplainID": 463686,
+        "UserID": 132550,
+        "request_type": "Urgent Repairs - Device Mapping",
+        "CustomerName": "Another Customer",
+        "TechnicianName": "john",
+        "TechnicianNumber": "1234567890",
+        "assign_date": "29 November, 2023",
+        "assign_day": "Wednesday",
+        "comp_assign_time": "10:00",
+        "complain_time": "10:00 AM",
+        "partner_type": "Standard",
+        "tecnician_id": 132537
+      }
+    ],
+    "Pending": [
+      {
+        "complain_Status_id": 12,
+        "ComplainID": 463686,
+        "UserID": 132550,
+        "request_type": "Urgent Repairs - Device Mapping",
+        "CustomerName": "Another Customer",
+        "TechnicianName": "john",
+        "TechnicianNumber": "1234567890",
+        "assign_date": "29 November, 2023",
+        "assign_day": "Wednesday",
+        "comp_assign_time": "10:00",
+        "complain_time": "10:00 AM",
+        "partner_type": "Standard",
+        "tecnician_id": 132537
+      }
+    ],
+    "Upcoming": [
+      {
+        "complain_Status_id": 12,
+        "ComplainID": 463686,
+        "UserID": 132550,
+        "request_type": "Urgent Repairs - Device Mapping",
+        "CustomerName": "Another Customer",
+        "TechnicianName": "john",
+        "TechnicianNumber": "1234567890",
+        "assign_date": "29 November, 2023",
+        "assign_day": "Wednesday",
+        "comp_assign_time": "10:00",
+        "complain_time": "10:00 AM",
+        "partner_type": "Standard",
+        "tecnician_id": 132537
+      }
+    ],
+    "WaitingForCustomerResponse": [
+      {
+        "complain_Status_id": 12,
+        "ComplainID": 463686,
+        "UserID": 132550,
+        "request_type": "Urgent Repairs - Device Mapping",
+        "CustomerName": "Another Customer",
+        "TechnicianName": "john",
+        "TechnicianNumber": "1234567890",
+        "assign_date": "29 November, 2023",
+        "assign_day": "Wednesday",
+        "comp_assign_time": "10:00",
+        "complain_time": "10:00 AM",
+        "partner_type": "Standard",
+        "tecnician_id": 132537
+      }
+    ],
+    "WaitingForParts": [
+      {
+        "complain_Status_id": 12,
+        "ComplainID": 463686,
+        "UserID": 132550,
+        "request_type": "Urgent Repairs - Device Mapping",
+        "CustomerName": "Another Customer",
+        "TechnicianName": "john",
+        "TechnicianNumber": "1234567890",
+        "assign_date": "29 November, 2023",
+        "assign_day": "Wednesday",
+        "comp_assign_time": "10:00",
+        "complain_time": "10:00 AM",
+        "partner_type": "Standard",
+        "tecnician_id": 132537
+      }
+    ]
+  },
+  "admins": [
+    {
+      "Name": "asad",
+      "Role": "asdq",
+      "Email": "aasd@gmil.com",
+      "Contact": "9011265239",
+      "Address1": "Test Address",
+      "Address2": "Test Address",
+      "State": "asdsa",
+      "City": "asds",
+      "Locality": "Locality",
+      "Zip": "12345",
+      "Status": "Active",
+      "id": "728ed52f",
+      "City ": "Rajkot"
+    },
+    {
+      "Name": "milap k",
+      "Role": "admin",
+      "Email": "milap@softnweb.in",
+      "Contact": "9727243318",
+      "Address1": "test ",
+      "Address2": "test 2",
+      "State": "gujarat",
+      "City": "rajkot",
+      "Locality": "rajkot",
+      "Zip": "12345",
+      "Status": "Active",
+      "id": "RpHYt4z",
+      "City ": "Rajkot"
+    },
+    {
+      "Name": "milap",
+      "Role": "admin",
+      "Email": "milap@softnweb.in",
+      "Contact": "9727243318",
+      "Address1": "test ",
+      "Address2": "test 2",
+      "State": "gujarat",
+      "City": "rajkot",
+      "Locality": "rajkot",
+      "Zip": "12345",
+      "Status": "Active",
+      "id": "9US0x4Q"
+    },
+    {
+      "Name": "milap 2a",
+      "Role": "addmin",
+      "Email": "milap@gmail.com",
+      "Contact": "1111111111",
+      "Address1": "rajkot",
+      "Address2": "asdasd",
+      "State": "asdas",
+      "City": "asdasasd",
+      "Locality": "asdA",
+      "Zip": "12345",
+      "Status": "Active",
+      "id": "Vzs5F-c"
+    },
+    {
+      "Name": "test",
+      "Role": "test",
+      "Email": "test@gmail.com",
+      "Contact": "1111111111",
+      "Address1": "test",
+      "Address2": "test",
+      "State": "rajkot",
+      "City": "rajkot",
+      "Locality": "test",
+      "Zip": "test",
+      "Status": "Active",
+      "id": "JCkAKU1"
+    },
+    {
+      "Name": "asdasd",
+      "Role": "asdas",
+      "Email": "asd@gmil.com",
+      "Contact": "1111111111",
+      "Address1": "asda",
+      "Address2": "asd",
+      "State": "asd",
+      "City": "asd",
+      "Locality": "asd",
+      "Zip": "asd",
+      "Status": "Active",
+      "id": "ePcnOGA"
+    },
+    {
+      "Name": "asasd test",
+      "Role": "asd",
+      "Email": "asad@gmail.com",
+      "Contact": "1111111111",
+      "Address1": "asdasd",
+      "Address2": "asd",
+      "State": "asd",
+      "City": "asf",
+      "Locality": "asd",
+      "Zip": "asf",
+      "Status": "Active",
+      "id": "m-UC94X"
+    },
+    {
+      "Name": "asdasd",
+      "Role": "asds",
+      "Email": "asdasd@gmail.com",
+      "Contact": "1111111111",
+      "Address1": "ASD",
+      "Address2": "ASD",
+      "State": "ASFD",
+      "City": "ADSSDSD",
+      "Locality": "ADF",
+      "Zip": "AF",
+      "Status": "Active",
+      "id": "-LetM-d"
+    },
+    {
+      "Name": "ASASD sd",
+      "Role": "ASDASD",
+      "Email": "asasdasd@gmil.com",
+      "Contact": "1111111111",
+      "Address1": "ASDASD",
+      "Address2": "ASD",
+      "State": "ASD",
+      "City": "ASF",
+      "Locality": "ASD",
+      "Zip": "ASD",
+      "Status": "Active",
+      "id": "ThFatm4"
+    },
+    {
+      "Name": "asdas",
+      "Role": "asdq",
+      "Email": "aasd@gmil.com",
+      "Contact": "1111111111",
+      "Address1": "asdsad",
+      "Address2": "asdasd",
+      "State": "asdsa",
+      "City": "asds",
+      "Locality": "asd",
+      "Zip": "ads",
+      "Status": "Active",
+      "id": "bJFyVpV"
+    },
+    {
+      "Name": "asad",
+      "Role": "asda",
+      "Email": "aasd@gmil.com",
+      "Contact": "1111111111",
+      "Address1": "asdasd",
+      "Address2": "asdas",
+      "State": "asd",
+      "City": "asd",
+      "Locality": "asd",
+      "Zip": "ad",
+      "Status": "Active",
+      "id": "Y6Vxk6Y"
+    },
+    {
+      "Name": "sdssd",
+      "Role": "sss",
+      "Email": "aasd@gmil.com",
+      "Contact": "1111111111",
+      "Address1": "s",
+      "Address2": "s",
+      "State": "s",
+      "City": "sssss",
+      "Locality": "s",
+      "Zip": "s",
+      "Status": "Active",
+      "id": "g_vz1AN",
+      "City ": "Rajkot",
+      "Action": "1"
+    },
+    {
+      "Name": "asad",
+      "Role": "asdq",
+      "Email": "aasd@gmil.com",
+      "Contact": "1234567890",
+      "Address1": "asdsad",
+      "Address2": "asdasd",
+      "State": "asdsa",
+      "City": "asds",
+      "Locality": "asd",
+      "Zip": "ads",
+      "Status": "Active",
+      "id": "V-RnTnZ"
+    }
+  ],
+  "partners": [
+    {
+      "partner_name": "Aircare Technologies",
+      "partner_type": "Premium",
+      "data_download": 0,
+      "partner_download": 0,
+      "first_name": "John",
+      "middle_name": "Mr",
+      "last_name": "Rebello",
+      "email": "director1@aircareindia.com",
+      "contact": "9892233007",
+      "address_1": "Champaklal Industrial Estate",
+      "address_2": "Sion East",
+      "locality": "Sion",
+      "country_id": 99,
+      "state_id": 1,
+      "city_id": 14,
+      "zip": "400022",
+      "logo": null,
+      "letterhead": "<p>Aircare Technologies India Pvt Ltd</p>",
+      "status": 0,
+      "user_id": 32038,
+      "reply_to": null,
+      "final_limit": null,
+      "admin_control_sms": 0,
+      "admin_control_email": 0,
+      "admin_control_sunday": 0,
+      "admin_control_whatsapp": 0,
+      "hide_technician_number": 1,
+      "required_signature": 0,
+      "partner_public_number": "9892233007",
+      "active_technicion": 0,
+      "created_at": "2018-02-10T04:35:08.000000Z",
+      "updated_at": "2023-11-23T11:20:31.000000Z",
+      "gst": null,
+      "pan": null,
+      "tan": null,
+      "state": "Maharashtra",
+      "city": "MUMBAI",
+      "total_technicians": 28,
+      "active_technicians": 28,
+      "id": 1
+    },
+    {
+      "partner_name": "Aircare Technologies",
+      "partner_type": "",
+      "data_download": 0,
+      "partner_download": 0,
+      "first_name": "Nilesh",
+      "middle_name": "Nilesh",
+      "last_name": "Admin",
+      "email": "nilesh@softnweb.in",
+      "contact": "9892233007",
+      "address_1": "",
+      "address_2": "Test Address",
+      "locality": "x",
+      "country_id": null,
+      "state_id": null,
+      "city_id": null,
+      "zip": "",
+      "logo": null,
+      "letterhead": "Aircare Technologies India Pvt Ltd",
+      "status": 0,
+      "user_id": 32038,
+      "reply_to": null,
+      "final_limit": null,
+      "admin_control_sms": 0,
+      "admin_control_email": 0,
+      "admin_control_sunday": 0,
+      "admin_control_whatsapp": 0,
+      "hide_technician_number": 1,
+      "required_signature": 0,
+      "partner_public_number": "",
+      "active_technicion": 0,
+      "created_at": "",
+      "updated_at": "",
+      "gst": null,
+      "pan": null,
+      "tan": null,
+      "state": "",
+      "city": "",
+      "total_technicians": 28,
+      "active_technicians": 28,
+      "id": 2
+    }
+  ]
+}
