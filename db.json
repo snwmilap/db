@@ -38,57 +38,6 @@
         "partner_type": "Standard",
         "tecnician_id": 132537
       }
-    ],
-    "Ongoing": [
-      {
-        "complain_Status_id": 12,
-        "ComplainID": 463686,
-        "UserID": 132550,
-        "request_type": "Urgent Repairs - Device Mapping",
-        "CustomerName": "Another Customer",
-        "TechnicianName": "john",
-        "TechnicianNumber": "1234567890",
-        "assign_date": "29 November, 2023",
-        "assign_day": "Wednesday",
-        "comp_assign_time": "10:00",
-        "complain_time": "10:00 AM",
-        "partner_type": "Standard",
-        "tecnician_id": 132537
-      }
-    ],
-    "Past": [
-      {
-        "complain_Status_id": 12,
-        "ComplainID": 463686,
-        "UserID": 132550,
-        "request_type": "Urgent Repairs - Device Mapping",
-        "CustomerName": "Another Customer",
-        "TechnicianName": "john",
-        "TechnicianNumber": "1234567890",
-        "assign_date": "29 November, 2023",
-        "assign_day": "Wednesday",
-        "comp_assign_time": "10:00",
-        "complain_time": "10:00 AM",
-        "partner_type": "Standard",
-        "tecnician_id": 132537
-      }
-    ],
-    "WaitingForParts": [
-      {
-        "complain_Status_id": 12,
-        "ComplainID": 463686,
-        "UserID": 132550,
-        "request_type": "Urgent Repairs - Device Mapping",
-        "CustomerName": "Another Customer",
-        "TechnicianName": "john",
-        "TechnicianNumber": "1234567890",
-        "assign_date": "29 November, 2023",
-        "assign_day": "Wednesday",
-        "comp_assign_time": "10:00",
-        "complain_time": "10:00 AM",
-        "partner_type": "Standard",
-        "tecnician_id": 132537
-      }
     ]
   },
   "admins": [
