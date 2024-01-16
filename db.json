@@ -1,4 +1,18 @@
 {
+  "technicians": [
+    {
+      "id": "728ed52f",
+      "type": "New",
+      "TechnicianID": "128561",
+      "Name": "",
+      "Contact": "9011265239",
+      "City": "Maharashtra",
+      "Partner": "Pureblu Temporary",
+      "CreatedOn": "2021-10-16 20:51:48",
+      "Status": "Active",
+      "Action": ""
+    }
+  ],
   "partner-complains": {
     "Escalated": [
       {
