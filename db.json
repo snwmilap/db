@@ -54,5 +54,22 @@
       "letterhead": "<p>Aircare Technologies India Pvt Ltd</p>",
       "id": 1
     }
+  ],
+  "admins": [
+    {
+      "Name": "asad",
+      "Role": "asdq",
+      "Email": "aasd@gmil.com",
+      "Contact": "9011265239",
+      "Address1": "Test Address",
+      "Address2": "Test Address",
+      "State": "asdsa",
+      "City": "asds",
+      "Locality": "Locality",
+      "Zip": "12345",
+      "Status": "Active",
+      "id": "728ed52f",
+      "City ": "Rajkot"
+    }
   ]
 }
